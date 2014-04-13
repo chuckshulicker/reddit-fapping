@@ -1,5 +1,4 @@
 require 'bundler/setup'
 Bundler.require(:default)
-require './app'
-
-run RedditFapping.new
+require './app/hello'
+run Hello
