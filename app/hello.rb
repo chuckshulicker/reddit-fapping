@@ -1,4 +1,4 @@
-class RedditFapping < Sinatra::Base
+class Hello < Sinatra::Base
   get "/" do
     "Hello World!"
   end
